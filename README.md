@@ -9,15 +9,15 @@ To date I have helped 250+ veterans learn how to write javascript and get tech j
 a
 ## I am a Speaker  
 
-<img src="https://res.cloudinary.com/jhardaway/image/upload/v1595191497/jerome-speaking_zkbflp.jpg" width="200">
+<img src="https://res.cloudinary.com/jhardaway/image/upload/v1595191497/jerome-speaking_zkbflp.jpg" width="400">
 
 ## I am a Podcaster  
 
-<img src="https://res.cloudinary.com/jhardaway/image/upload/v1595191488/jerome-podcasting_nycsjk.jpg" width="200">
+<img src="https://res.cloudinary.com/jhardaway/image/upload/v1595191488/jerome-podcasting_nycsjk.jpg" width="400">
 
 ## I am a Mentor  
 
-<img src="https://res.cloudinary.com/jhardaway/image/upload/v1595191491/jerome-mentoring_hzasrq.jpg" width="200">
+<img src="https://res.cloudinary.com/jhardaway/image/upload/v1595191491/jerome-mentoring_hzasrq.jpg" width="400">
 
 ## I've Been Honored by a United States President  
 
@@ -26,7 +26,7 @@ a
 
 ## I have been in a National Documentary  
 
-<img src="https://res.cloudinary.com/jhardaway/image/upload/v1595191994/Screen_Shot_2020-07-19_at_3.52.33_PM_xzgmva.png" width="200">
+<img src="https://res.cloudinary.com/jhardaway/image/upload/v1595191994/Screen_Shot_2020-07-19_at_3.52.33_PM_xzgmva.png" width="400">
 
 ## And been in a Magazine or Two
 
