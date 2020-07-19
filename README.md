@@ -1,5 +1,5 @@
 # 'Sup
-![Image Of Diversity In Action Cover](assets/diversity-in-action.jpg)  
+![Image Of Diversity In Action Cover](diversity-in-action.jpg)  
 
 
 
