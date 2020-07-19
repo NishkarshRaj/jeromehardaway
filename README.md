@@ -23,7 +23,7 @@ To date I have helped 250+ veterans learn how to write javascript and get tech j
 
 ## And been in a Magazine or Two
 
-<img src="https://res.cloudinary.com/jhardaway/image/upload/v1595193072/wired_gneb86.jpg" width="">
+<img src="https://res.cloudinary.com/jhardaway/image/upload/v1595193072/wired_gneb86.jpg" width="200">
 
 ![diversity-in-action](https://res.cloudinary.com/jhardaway/image/upload/v1595193081/diveristy-in-action-cover_nrm5xs.jpg)
 
