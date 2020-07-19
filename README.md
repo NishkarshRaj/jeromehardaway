@@ -21,9 +21,7 @@ a
 
 ## I've Been Honored by a United States President  
 
-<img src="https://res.cloudinary.com/jhardaway/image/upload/v1595194682/obama_vz8qup.jpg" width="200">
-
-<img src="https://res.cloudinary.com/jhardaway/image/upload/v1595194680/megan-and-daymond_ignjfa.jpg" width="200">
+<img src="https://res.cloudinary.com/jhardaway/image/upload/v1595194682/obama_vz8qup.jpg" width="200"> <img src="https://res.cloudinary.com/jhardaway/image/upload/v1595194680/megan-and-daymond_ignjfa.jpg" width="200">
 
 
 ## I have been in a National Documentary  
@@ -32,6 +30,4 @@ a
 
 ## And been in a Magazine or Two
 
-<img src="https://res.cloudinary.com/jhardaway/image/upload/v1595193072/wired_gneb86.jpg" width="200">
-
-<img src="https://res.cloudinary.com/jhardaway/image/upload/v1595193081/diveristy-in-action-cover_nrm5xs.jpg" width="200">
+<img src="https://res.cloudinary.com/jhardaway/image/upload/v1595193072/wired_gneb86.jpg" width="200"> <img src="https://res.cloudinary.com/jhardaway/image/upload/v1595193081/diveristy-in-action-cover_nrm5xs.jpg" width="200">
