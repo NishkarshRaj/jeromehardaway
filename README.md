@@ -6,7 +6,7 @@
 I am Jerome Hardaway, Google Developer Expert, Twilio Champion, Developer Evangelist, Content Creator, Comic Nerd and Executive Director of Vets Who Code. I focus on everything Front End and Javascript.  
 
 To date I have helped 250+ veterans learn how to write javascript and get tech jobs. I don't slowing down. Matter of fact I am just getting started.
-a
+
 ## I am a Speaker  
 
 <img src="https://res.cloudinary.com/jhardaway/image/upload/v1595191497/jerome-speaking_zkbflp.jpg" width="400">
