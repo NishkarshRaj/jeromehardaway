@@ -3,19 +3,19 @@
 ![Diversity-in-action-magazine](https://res.cloudinary.com/jhardaway/image/upload/v1595189250/diversity-in-action_gewfqu.jpg)
 
 
-I am Jerome Hardaway, Google Developer Expert, Twilio Champion, Developer Evangelist, Content Creator, Comic Nerd and Executive Director of Vets Who Code. I focus on everything Front End and Javascript.  
+Jerome Hardaway is an Arir Force Veteran, Google Developer Expert, Twilio Champion, Developer Evangelist, Content Creator, and Executive Director of Vets Who Code. He focuses on all things within the Javascript Ecosysytem.  
 
 To date I have helped 250+ veterans learn how to write javascript and get tech jobs. I don't be slowing down. Matter of fact I am just getting started.
 
-## I am a Speaker  
+## I Speak  
 
 <img src="https://res.cloudinary.com/jhardaway/image/upload/v1595191497/jerome-speaking_zkbflp.jpg" width="400">
 
-## I am a Podcaster  
+## I Podcast  
 
 <img src="https://res.cloudinary.com/jhardaway/image/upload/v1595191488/jerome-podcasting_nycsjk.jpg" width="400">
 
-## I am a Mentor  
+## I Mentor  
 
 <img src="https://res.cloudinary.com/jhardaway/image/upload/v1595191491/jerome-mentoring_hzasrq.jpg" width="400">
 
