@@ -1,9 +1,6 @@
 # <h1 align="center">Jerome Hardaway</h1>
 
-<img src="https://res.cloudinary.com/jhardaway/image/upload/v1604602687/Jerome-17_giyuc9.jpg" />
-
-<img src="https://res.cloudinary.com/jhardaway/image/upload/v1604607437/Jerome-16_psidww.jpg" alt="Captain America Of Code" style="max-width:100%;">
-
+![Captain America Of Code](https://res.cloudinary.com/jhardaway/image/upload/v1604607437/Jerome-16_psidww.jpg)
 
 Hi, I'm an Air Force Veteran turned programmer who is a Google Developer Expert, Twilio Champion and Executive Director of Vets Who Code. I focus on all things within the Javascript Ecosysytem.
 
