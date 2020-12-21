@@ -1,33 +1,21 @@
-# 'Sup
+# <h1 align="center">Jerome Hardaway</h1>
 
-![Diversity-in-action-magazine](https://res.cloudinary.com/jhardaway/image/upload/v1595189250/diversity-in-action_gewfqu.jpg)
-
-
-Jerome Hardaway is an Arir Force Veteran, Google Developer Expert, Twilio Champion, Developer Evangelist, Content Creator, and Executive Director of Vets Who Code. He focuses on all things within the Javascript Ecosysytem.  
-
-To date I have helped 250+ veterans learn how to write javascript and get tech jobs. I don't be slowing down. Matter of fact I am just getting started.
-
-## I Speak  
-
-<img src="https://res.cloudinary.com/jhardaway/image/upload/v1595191497/jerome-speaking_zkbflp.jpg" width="400">
-
-## I Podcast  
-
-<img src="https://res.cloudinary.com/jhardaway/image/upload/v1595191488/jerome-podcasting_nycsjk.jpg" width="400">
-
-## I Mentor  
-
-<img src="https://res.cloudinary.com/jhardaway/image/upload/v1595191491/jerome-mentoring_hzasrq.jpg" width="400">
-
-## I've Been Honored by a United States President  
-
-<img src="https://res.cloudinary.com/jhardaway/image/upload/v1595194682/obama_vz8qup.jpg" width="200"> <img src="https://res.cloudinary.com/jhardaway/image/upload/v1595194680/megan-and-daymond_ignjfa.jpg" width="200">
+<img src="https://res.cloudinary.com/jhardaway/image/upload/v1604602687/Jerome-17_giyuc9.jpg"/>
 
 
-## I have been in a National Documentary  
+Hi, I'm an Air Force Veteran turned programmer who is a Google Developer Expert, Twilio Champion and Executive Director of Vets Who Code. I focus on all things within the Javascript Ecosysytem.
 
-<img src="https://res.cloudinary.com/jhardaway/image/upload/v1595191994/Screen_Shot_2020-07-19_at_3.52.33_PM_xzgmva.png" width="400">
+To date I have helped 250+ veterans learn how to write javascript and get tech jobs. I won't inte slowing down. Matter of fact I am just getting started.
 
-## And been in a Magazine or Two
 
-<img src="https://res.cloudinary.com/jhardaway/image/upload/v1595193072/wired_gneb86.jpg" width="200"> <img src="https://res.cloudinary.com/jhardaway/image/upload/v1595193081/diveristy-in-action-cover_nrm5xs.jpg" width="200">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeromehardaway&layout=compact&hide=makefile&bg_color=091f40&text_color=f6f6f6&title_color=c5203e&icon_color=c5203e" alt="Most used languages" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=jeromehardaway&show_icons=true&count_private=true&hide=issues,contribs&bg_color=091f40&text_color=f6f6f6&title_color=c5203e&icon_color=c5203e" alt="GitHub stats" />
+
+
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=jeromehardaway&margin-w=8&column=6&rank=SECRET,SSS,SS,S,A,AAA,AA,B,C" alt="github trophies" />
+</p>
