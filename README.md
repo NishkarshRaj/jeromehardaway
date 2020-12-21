@@ -1,5 +1,5 @@
 # <h1 align="center">Jerome Hardaway</h1>
-![Captain America Of Code](https://res.cloudinary.com/jhardaway/image/upload/v1604607437/Jerome-16_psidww.jpg)
+![Captain America Of Code](https://res.cloudinary.com/jhardaway/image/upload/v1595189250/diversity-in-action_gewfqu.jpg)
 
 <p align=center>
 Hi, I'm an Air Force Veteran turned programmer who is a Google Developer Expert, Twilio Champion and Executive Director of Vets Who Code. I focus on all things within the Javascript Ecosysytem.
